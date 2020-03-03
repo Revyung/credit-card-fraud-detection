@@ -2,11 +2,11 @@
 
 # Things included in the notebook:
 - Exploration of a realistic credit card transaction dataset.
-- Explanation of the deficiency of accuracy in explained the classification power of supervised learning algorithm.
+- Explanation of the deficiency of accuracy in interpreting the classification power of a supervised learning algorithm.
 - The use of Precision-recall curve and its AUC score metric.
-- The inadequacy of Receiver Operating Characteristic when it comes to the small sample size of minority class
+- The inadequacy of Receiver Operating Characteristic when it comes to the small sample size of minority class.
 - How synthetic data generation of the minority class (up-sampling) can help.
-- Introduction to SMOTE (Synthetic Minority Over-sampling Technique) in imblearn library
+- Introduction to SMOTE (Synthetic Minority Over-sampling Technique) in imblearn library.
 - The improvement of pr-score from 0.655 to 0.997 
 
 # Reference:
