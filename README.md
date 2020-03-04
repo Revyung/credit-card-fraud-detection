@@ -7,7 +7,8 @@
 - The inadequacy of Receiver Operating Characteristic when it comes to the small sample size of minority class.
 - How synthetic data generation of the minority class (up-sampling) can help.
 - Introduction to SMOTE (Synthetic Minority Over-sampling Technique) in imblearn library.
-- The improvement of pr-score from 0.655 to 0.997 
+- Why cross validation should be done before SMOTE.
+- The improvement of pr-score from 0.6145 to 0.7714.
 
 # Reference:
 [SMOTE: Synthetic Minority Over-sampling Technique, N. V. Chawla et al.](https://arxiv.org/pdf/1106.1813.pdf)
