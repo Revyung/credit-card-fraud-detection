@@ -8,7 +8,7 @@
 - How synthetic data generation of the minority class (up-sampling) can help.
 - Introduction to SMOTE (Synthetic Minority Over-sampling Technique) in imblearn library.
 - Why cross validation should be done before SMOTE.
-- The improvement of pr-score from 0.6145 to 0.7714.
+- The improvement of pr-score from 0.6393 to 0.7421.
 
 # Reference:
-[SMOTE: Synthetic Minority Over-sampling Technique, N. V. Chawla et al.](https://arxiv.org/pdf/1106.1813.pdf)
+[N. V. Chawla et al. (2002). SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/pdf/1106.1813.pdf)
